@@ -1,0 +1,8 @@
+var1=input("Define one variable: ")
+var2=input("Define another variable: ")
+resultOfSum = int(var1)+int(var2)
+resultOfDiff=int(var1)-int(var2)
+resultOfProd=int(var1)*int(var2)
+print(f"The summation is: {resultOfSum}")
+print(f"The summation is: {resultOfDiff}")
+print(f"The summation is: {resultOfProd}")

@@ -1,0 +1,6 @@
+txt=input("What is your name?")
+print(txt)
+print(f"Hello {txt}")
+txt1=input("What is your student ID: ")
+print(txt1)
+print(f"Your ID is {txt1}")
